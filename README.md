@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Sveiki atvykę į mano GitHub!
-
+![](https://komarev.com/ghpvc/?username=giesla&color=green)
 ## Apie mane
 Esu duomenų analitikas, turintis patirties dirbant su įvairiais įrankiais, tokiais kaip **MySQL**, **Power BI** ir **Python**. Mano pagrindinė veikla – analizuoti duomenis ir teikti įžvalgas, kurios padeda priimti sprendimus.
 
